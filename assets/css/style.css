@@ -1,0 +1,108 @@
+.border-radius {
+    border-radius: 15px;
+}
+
+.first-card {
+    background: linear-gradient(0deg, rgba(70, 164, 213, 1) 7%, rgba(32, 205, 238, 1) 92%);
+}
+
+.second-card {
+    background: linear-gradient(0deg, rgba(249, 102, 136, 1) 7%, rgba(216, 76, 147, 1) 92%);
+}
+
+.third-card {
+    background: linear-gradient(0deg, rgba(53, 210, 92, 1) 7%, rgba(53, 209, 96, 1) 92%);
+}
+
+.fourth-card {
+    background: linear-gradient(0deg, rgba(254, 176, 78, 1) 7%, rgba(244, 209, 92, 1) 92%);
+}
+
+.icon-div {
+    width: 60px;
+    border-radius: 10px;
+    background: transparent !important;
+    height: 60px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.icon-div i {
+    margin-left: 16px;
+    margin-top: 15px !important;
+    color: white !important;
+}
+
+.notification {
+    border-radius: 10px;
+    background: transparent !important;
+    width: 50px;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.notification i {
+    margin-left: 16px;
+    margin-top: 23px !important;
+}
+
+#wrapper {
+    position: relative;
+    background: #000524;
+    border: 1px solid #000;
+    box-shadow: 0 22px 35px -16px rgba(0, 0, 0, 0.71);
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+#chart-bar {
+    position: relative;
+    margin-top: -38px;
+}
+
+.link {
+    position: absolute;
+    bottom: 7px;
+    right: 13px;
+    z-index: 10;
+    color: #ccc;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: Helvetica, Arial;
+}
+
+.profile {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    border: 1px solid #d7d7d7;
+    margin-left: 50px;
+}
+.profile img{
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 150px;
+}
+.doctor{
+    border: 1px solid #d7d7d7;
+    border-radius: 15px;
+    height: 60px;
+    width: 230px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.doctor p{
+    margin-top: -7px;
+}
+.target{
+    /* margin-left: 2px; */
+    margin-top: 15px;
+    border-right: 1px solid #000;
+}
+.achieve{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.navbar-bg{
+    background: #f7f9fc !important;
+}
